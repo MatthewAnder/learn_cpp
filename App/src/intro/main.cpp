@@ -13,9 +13,6 @@ int main() {
 	std::cin >> num;
 	std::cout << num;
 
-	
-
-
 
 	return 0;
 }
